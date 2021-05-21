@@ -19,7 +19,7 @@ function Work() {
                   return (
                     <div className="isotope-item" key={val.id}>
                       <figure className="snip1321">
-                        <img src={val.photo} alt="python emp" />
+                        <img src={val.photo} alt={val.title}/>
                         <figcaption>
                           <h4>{val.title}</h4>
                           <span>{val.desc} </span>

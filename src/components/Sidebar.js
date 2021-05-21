@@ -59,8 +59,8 @@ function Sidebar() {
                 <li>
                   <a
                     className="button"
-                    href="/Assets/Aishwarya Bhisikar.pdf"
-                    download="Aishwarya Bhisikar.pdf"
+                    href="/Aishwarya_Resume/Assets/Aishwarya_Bhisikar.pdf"
+                    download="Aishwarya_Bhisikar.pdf"
                   >
                     Download My Resume
                   </a>
