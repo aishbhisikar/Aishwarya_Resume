@@ -28,9 +28,7 @@ function About() {
 
           <div className="row">
             <div className="left-text">
-              <h4
-                
-              >
+              <h4>
                 Personal vitae
               </h4>
               <div className="listContent">
@@ -48,12 +46,12 @@ function About() {
                   <li>
                     {" "}
                     <BiChevronsRight /> <strong>Email :</strong>{" "}
-                    <span>abhisikar59@gmail.com</span>
+                    <span>aishbhisikar05@gmail.com</span>
                   </li>
                   <li>
                     {" "}
                     <BiChevronsRight /> <strong>Phone :</strong>{" "}
-                    <span>+44-7404499927</span>
+                    <span>+91-8600192555</span>
                   </li>
                   <li>
                     {" "}
@@ -72,15 +70,19 @@ function About() {
                   </li>
                   <li>
                     {" "}
+                    <BiChevronsRight /> <strong>Nationality :</strong>{" "}
+                    <span>Indian</span>
+                  </li>
+                  <li>
+                    {" "}
                     <BiChevronsRight /> <strong>Current City :</strong>{" "}
                     <span>London,UK</span>
                   </li>
                   <li>
                     {" "}
-                    <BiChevronsRight /> <strong>Nationality :</strong>{" "}
-                    <span>Indian</span>
+                    <BiChevronsRight /> <strong>UK contact details:</strong>{" "}
+                    <span>+447404499927 , abhisikar59@gmail.com </span>
                   </li>
-                  
                   <li>
                     {" "}
                     <BiChevronsRight /> <strong>Work Status :</strong>{" "}

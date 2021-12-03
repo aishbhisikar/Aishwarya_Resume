@@ -28,9 +28,10 @@
     right: 15%;
     left: 15%;
   }
+
    .listContent ul li { 
-   
-   font-size: 13px;
+    overflow-wrap: break-word;
+   font-size: 9px;
  
   } 
   .container {
